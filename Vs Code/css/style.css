@@ -1,0 +1,52 @@
+
+/* ******** TAG SELECTORS ***************/
+
+body{
+    background-color: #69DADB;
+}
+
+
+hr{
+    border-top-style: dotted;
+    border-width: 5px;
+    border: 10px 0px 0px 0px;
+}
+
+p{
+    background-color: brown;
+}
+
+/******* Class Selectors ****/
+
+
+.para{
+    background-color: chartreuse;
+}
+
+.margin{
+    margin-left: 100px;
+}
+
+/******* Id Selectors ****/
+
+#heading{
+    background-color: red;
+}
+
+#head{
+    margin-left: 100px;
+}
+
+.list{
+    background-color: orchid;
+}
+
+
+/*******8 Mixed selector **********/
+
+.list .dataone{
+    background-color: papayawhip;
+}
+
+/********* The diffrence between the id selector and the class selector is that we can use multiple classes in a single tag but in the id selectors we cannot use it.
+*/

@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+ul{
+    display: inline;
+    position: relative;
+    left: 800px;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav{
+    background-color: #4E9F3D;
+    padding: 6px;
+}
+
+.brand{
+    display: inline;
+}
