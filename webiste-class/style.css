@@ -1,0 +1,56 @@
+#title{
+    background-color: #FF9292 ;
+}
+
+.container-fluid{
+    padding: 5% 15%;    
+}
+
+.download-btn{
+    margin-left: 30px;
+}
+
+#features{
+    text-align: center;
+}
+
+.icon{
+    color: #FDA65D;
+}
+
+.features-space{
+    padding: 5%;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 50%;
+}
+
+
+#testimonials{
+    background-color: #FDA65D;
+    text-align: center;
+}
+
+.carousel-item{
+    padding: 10% ;
+}
+
+#press{
+    background-color: #FDA65D;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card{
+    text-align: center;
+}
+
+.pricing-head{
+    text-align: center;
+}
+
+#pricing{
+    margin-top: 20px;
+}
